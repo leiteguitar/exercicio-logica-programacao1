@@ -1,0 +1,13 @@
+C:\Users\Vinny\source\repos\Exercicio1_CalculadorMeses\bin\Debug\netcoreapp3.1\Exercicio1_CalculadorMeses.exe
+C:\Users\Vinny\source\repos\Exercicio1_CalculadorMeses\bin\Debug\netcoreapp3.1\Exercicio1_CalculadorMeses.deps.json
+C:\Users\Vinny\source\repos\Exercicio1_CalculadorMeses\bin\Debug\netcoreapp3.1\Exercicio1_CalculadorMeses.runtimeconfig.json
+C:\Users\Vinny\source\repos\Exercicio1_CalculadorMeses\bin\Debug\netcoreapp3.1\Exercicio1_CalculadorMeses.runtimeconfig.dev.json
+C:\Users\Vinny\source\repos\Exercicio1_CalculadorMeses\bin\Debug\netcoreapp3.1\Exercicio1_CalculadorMeses.dll
+C:\Users\Vinny\source\repos\Exercicio1_CalculadorMeses\bin\Debug\netcoreapp3.1\Exercicio1_CalculadorMeses.pdb
+C:\Users\Vinny\source\repos\Exercicio1_CalculadorMeses\obj\Debug\netcoreapp3.1\Exercicio1_CalculadorMeses.csprojAssemblyReference.cache
+C:\Users\Vinny\source\repos\Exercicio1_CalculadorMeses\obj\Debug\netcoreapp3.1\Exercicio1_CalculadorMeses.AssemblyInfoInputs.cache
+C:\Users\Vinny\source\repos\Exercicio1_CalculadorMeses\obj\Debug\netcoreapp3.1\Exercicio1_CalculadorMeses.AssemblyInfo.cs
+C:\Users\Vinny\source\repos\Exercicio1_CalculadorMeses\obj\Debug\netcoreapp3.1\Exercicio1_CalculadorMeses.csproj.CoreCompileInputs.cache
+C:\Users\Vinny\source\repos\Exercicio1_CalculadorMeses\obj\Debug\netcoreapp3.1\Exercicio1_CalculadorMeses.dll
+C:\Users\Vinny\source\repos\Exercicio1_CalculadorMeses\obj\Debug\netcoreapp3.1\Exercicio1_CalculadorMeses.pdb
+C:\Users\Vinny\source\repos\Exercicio1_CalculadorMeses\obj\Debug\netcoreapp3.1\Exercicio1_CalculadorMeses.genruntimeconfig.cache
